@@ -46,7 +46,7 @@ This is not correct either.
 
 This is a code exercise. The content can be formatted in simple Markdown – so
 you can have **bold text**, `code` or [links](https://spacy.io) or lists, like
-the one for the instructions below.
+the one for the instructions below. Add from Seb.
 
 - These are instructions and they can have bullet points.
 - The code block below will look for the files `exc_01_03`, `solution_01_03` and
