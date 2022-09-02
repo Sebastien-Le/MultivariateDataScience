@@ -50,6 +50,10 @@ the one for the instructions below. Add from Seb.
 
 <center><img src="https://latex.codecogs.com/svg.image?Var(\bar{X}_n)=\frac{\sigma^2}{n}." style="margin-top : -1.25rem; margin-bottom : 1.25rem"/></center></p>
 
+<center><img src="https://latex.codecogs.com/svg.image?d\textsuperscript{2}(x\textsubscript{i},
+x\textsubscript{k}) =
+\textsuperscript{t}(x\textsubscript{i}-x\textsubscript{k})(x\textsubscript{i}-x\textsubscript{k})." style="margin-top : -1.25rem; margin-bottom : 1.25rem"/></center></p>
+
 - These are instructions and they can have bullet points.
 - The code block below will look for the files `exc_01_03`, `solution_01_03` and
   `test_01_03` in `/exercises`.
